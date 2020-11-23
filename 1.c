@@ -6,6 +6,9 @@ int main () {
     {
         printf("Hello world !");
     }
-    
+    if (x==0)
+    {
+        printf("bye bye world!");
+    }
     return 0 ; 
 }
